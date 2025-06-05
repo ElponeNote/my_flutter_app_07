@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781091741498",
+    "project_id": "my-flutter-app-de94b",
+    "storage_bucket": "my-flutter-app-de94b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781091741498:android:c3a6737b6fa1fb98237a03",
+        "android_client_info": {
+          "package_name": "com.skoolkorea.coolcoolbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTDuStK4AUNjYFXBPCC_s7MsOQLOin_4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
